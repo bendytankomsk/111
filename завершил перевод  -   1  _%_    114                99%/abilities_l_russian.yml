@@ -1,0 +1,46 @@
+﻿l_russian:
+ ABILITY_TOOLTIP_NAME:0 "$NAME|H$"
+ ABILITY_TOOLTIP_NAME_CANCEL:0 "§RCancel: $NAME|H$§!"
+ ABILITY_TOOLTIP_COST:0 "Стоимость командной мощности: $VALUE|H$"
+ ABILITY_TOOLTIP_DETAILED_COST:0 " - Базовая стоимость: $VALUE|H2$ (каждая для $UNITS|H0$ батальонов)"
+ ABILITY_TOOLTIP_DETAILED_COST_FACTOR:0 " - Стоимость способностей: КОЭФФИЦИЕНТ $|+%$"
+ ABILITY_TOOLTIP_DAILY_COST:0 "Ежедневная стоимость командной мощности: $VALUE|H2$"
+ ABILITY_TOOLTIP_ALLOCATION:0 "Распределение мощности команды: $VALUE|H2$"
+ ABILITY_TOOLTIP_NOT_ENOUGH_CP:0 "§Недостаточно командной мощности.§!"
+ ABILITY_TOOLTIP_IS_ALREADY_ACTIVE:0 "§Возможность уже активна.§!"
+ ABILITY_TOOLTIP_IS_IN_COOLDOWN:0 "§Способность находится в режиме перезарядки.§!"
+ ABILITY_LEADER_CANNOT_USE_ABILITIES:1 "§Лидер RUnit болен или ранен и не может использовать способности.§!"
+ ABILITY_TOOLTIP_DURATION:0 "Длительность: $VALUE|H$"
+ ABILITY_TOOLTIP_COOLDOWN:0 "Время перезарядки: $VALUE|H$"
+ ABILITY_TOOLTIP_ALREADY_ACTIVE_GROUP:0 "§R Эта способность уже активна на уровне Группы армий.§!"
+ ABILITY_TOOLTIP_ALREADY_ACTIVE_CHILD_GROUPS:0 "§R Эта способность уже активна для всех дочерних групп.§!"
+ ALLOCATED_CP_ENTRY:0 "$NAME$ ($DURATION$)"
+ ABILITY_DUR_HOURS:0 "$num|H$ hours"
+ ABILITY_DUR_DAYS:0 "$num|H$ days"
+ ABILITY_LAST_STAND:0 "Последний бой"
+ ABILITY_LAST_STAND_TOOLTIP:0 "Последняя позиция ($LEADER$)"
+ ABILITY_LAST_STAND_DESC:0 "Ваши армии получат оборонительный бонус за счет некоторых недостатков".
+ ABILITY_FORCE_ATTACK:0 "Силовая атака"
+ ПОДСКАЗКА ABILITY_FORCE_ATTACK_TOOLTIP:0 "Силовая атака ($LEADER$)"
+ ABILITY_FORCE_ATTACK_DESC:0 "Ваши армии получат наступательный бонус за счет некоторых недостатков".
+ ABILITY_STAFF_OFFICE_PLAN:0 "План офиса персонала"
+ ABILITY_STAFF_OFFICE_PLAN_DESC:0 "Ваши подразделения получат значительное повышение скорости планирования".
+ ABILITY_STAFF_MORE_GROUND_CREWS:0 "Больше наземных экипажей"
+ ABILITY_STAFF_MORE_GROUND_CREWS_DESC:0 "Вы получите повышение эффективности для стратегического региона".
+ ABILITY_SIEGE_ARTILLERY:0 "Осадная артиллерия"
+ ABILITY_SIEGE_ARTILLERY_DESC:1 "Специализированная осадная артиллерия нанесет сильный урон фортам и даст бонус к атаке форта".
+ ABILITY_GLIDER_PLANES_ARTILLERY:0 "Самолеты-планеры"
+ ABILITY_GLIDER_PLANES_ARTILLERY_DESC:1 "Назначение самолетов-планеров увеличит транспортные возможности для заказов десантников".
+ ABILITY_FASTER_NAVAL_PLANNING:0 "План морского нападения"
+ ABILITY_FASTER_NAVAL_PLANNING_DESC:1 "Требуется дополнительное десантное судно и ресурсы для морского вторжения".
+ ABILITY_PROBING_ATTACK:0 "Пробная атака"
+ ABILITY_PROBING_ATTACK_DESC:1 "Подразделения не теряют свой бонус за укрепление при атаке, но не полностью вступают в бой".
+ ABILITY_MAKESHIFT_BRIDGES:0 "Самодельные мосты"
+ ABILITY_MAKESHIFT_BRIDGES_DESC:1 "Строительство самодельных мостов уменьшит штрафы за переправу через реку в бою".
+ ABILITY_EXTRA_SUPLIES:1 "Дополнительные принадлежности"
+ ABILITY_EXTRA_SUPLIES_DESC:1 "Дополнительные припасы приобретаются для войск".
+ ABILITY_REQUISITION_WINTER_GEAR:0 "Запрос зимнего снаряжения"
+ ABILITY_REQUISITION_WINTER_GEAR_DESC:1 "Зимнее снаряжение станет бонусом к акклиматизации в холодную погоду".
+ ABILITY_ON_ADD:0 "При выполнении:"
+ ABILITY_ON_HOURLY:0 "На каждый Час:"
+ ABILITY_ON_DAILY:0 "На каждый день:"
